@@ -24,6 +24,13 @@ body {
     color: #d9dcd6;
 }
 
+/* Added this class to add background color to text in list so that text meets WCAG standards*/
+.header-list {
+    background-color: #2a607c;
+
+}
+
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -74,7 +81,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Change background-color from #2589bd for contrast WCAG standards*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -83,7 +90,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .benefit-lead {
