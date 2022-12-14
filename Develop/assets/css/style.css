@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Added this class to add background color to text in list so that text meets WCAG standards*/
+/* Added this class to add background color to text in list so that text contrast meets WCAG standards*/
 .header-list {
     background-color: #2a607c;
 
