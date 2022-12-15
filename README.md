@@ -12,13 +12,16 @@ N/A
 ## Usage
 
 Navigation bar includes links to relevant information - Search Engine Optimazation. Online Reputation Management. Social Media Marketing
+
 ![Image of website](assets/images/horiseon-screenshot.png)
 - [Link to Horiseon Index](https://jminor90.github.io/horiseon-code-refactor/)
 
 
 ## Credits
 Original Source code provided by [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram)
+
 Primary update by Joshua Minor.
+
 Collaborated with 
 - [Christopher Simmonds](https://github.com/Christoph551)
 - [Anthony Frederick](https://github.com/AnthonyFrederick7)
