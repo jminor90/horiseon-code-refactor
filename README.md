@@ -5,10 +5,6 @@
 This is the main page of the Horiseon website. Accessibility has been improved, based on code given. Make sure that proper HTML semantics are updated as well.
 
 
-## Table of Contents (Optional)
-
-N/A
-
 ## Installation
 
 N/A
@@ -20,18 +16,19 @@ Navigation bar includes links to relevant information - Search Engine Optimazati
 
 
 ## Credits
-Primary coding by Joshua Minor.
+Original Source code provided by []()
+Primary update by Joshua Minor.
 Collaborated with 
-[Christopher Simmonds](https://github.com/Christoph551)
-[Anthony Frederick](https://github.com/AnthonyFrederick7)
-[Logan Peterson](https://github.com/codeDevLogan)
+- [Christopher Simmonds](https://github.com/Christoph551)
+- [Anthony Frederick](https://github.com/AnthonyFrederick7)
+- [Logan Peterson](https://github.com/codeDevLogan)
 
-Used MDN and W3 schools for primary resources
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+Primary Resources
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [W3 Schools](https://www.w3schools.com/)
+
 
 ## License
 
